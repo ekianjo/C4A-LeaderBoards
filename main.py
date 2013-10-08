@@ -29,4 +29,4 @@ http://stackoverflow.com/questions/8811783/convert-json-to-sqlite-in-python-how-
 
 #find certain name in each database
 #find is there was a change for that name from previous to new version (position / new high scores)
-#
+#parsing values http://stackoverflow.com/questions/2835559/parsing-values-from-a-json-file-in-python
